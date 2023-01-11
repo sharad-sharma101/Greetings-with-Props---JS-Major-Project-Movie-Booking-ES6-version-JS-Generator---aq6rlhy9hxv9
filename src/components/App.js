@@ -4,11 +4,7 @@ import Welcome from './Welcome';
 
 const App = () => {
   return (
-    <div>
-      <details>
-    <Welcome name="sharad" />
-    </details>
-    </div>
+    <Welcome name="Sandeep" />
   )
 }
 
